@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Conditions
+comment0.text=\ Keeps\ track\ of\ the\ time\ of\ day\ and\ the\ weather\ (tides)\r\n\ \ Day\ and\ night\ tracked\ in\ steps\ of\ 12\ where\ 24\ steps\ is\ a\ full\ day\r\n\ @author\ Rahima\ Oqubay\ K23007340\ \r\n\ @version\ 7.0\r\n
+comment1.params=
+comment1.target=Conditions()
+comment1.text=\r\n\ Constructor\ for\ time\ of\ day\ class.\r\n
+comment2.params=
+comment2.target=void\ advance()
+comment2.text=\r\n\ Advance\ the\ time\ by\ one\ step.\r\n
+comment3.params=
+comment3.target=boolean\ isDay()
+comment3.text=\r\n\ Check\ if\ it's\ currently\ day\r\n
+comment4.params=
+comment4.target=boolean\ isHighTide()
+comment4.text=\r\n\ check\ if\ the\ tide\ is\ high\r\n
+comment5.params=choice
+comment5.target=void\ setHighTide(boolean)
+comment5.text=\r\n\ set\ the\ tide\r\n
+comment6.params=
+comment6.target=boolean\ isNight()
+comment6.text=\r\n\ Check\ if\ it's\ currently\ night\r\n
+comment7.params=
+comment7.target=int\ getCurrentStep()
+comment7.text=\r\n\ Getter\ method\ for\ the\ current\ step\ aka\ "time"\ in\ the\ day.\r\n
+numComments=8
